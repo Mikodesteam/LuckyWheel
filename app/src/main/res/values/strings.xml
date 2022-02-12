@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Watch and Earn</string>
+    <string name="nointernet">Please check your internet connection and try again</string>
+    <string name="title">Watch\n&amp; Earn</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746647399479",
+    "firebase_url": "https://watchandearn-79f33.firebaseio.com",
+    "project_id": "watchandearn-79f33",
+    "storage_bucket": "watchandearn-79f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746647399479:android:71290817b935680360e3b2",
+        "android_client_info": {
+          "package_name": "mikodes.watch.earns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746647399479-kkti5q9r8ab03bbrsr4lbc72d157mpg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mikodes.watch.earns",
+            "certificate_hash": "2fa11bbf9a08758cf4ba1468a43ff76329f31c0d"
+          }
+        },
+        {
+          "client_id": "746647399479-m677lhtrrg58othv77b6cba30nl2l5tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLBA5WWLhWHbhUnfydMTwNnCAMteE6Vyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746647399479-m677lhtrrg58othv77b6cba30nl2l5tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

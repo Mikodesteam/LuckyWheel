@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#51459E</color>
+    <color name="colorPrimaryDark">#39345A</color>
+    <color name="colorAccent">#4CD7C3</color>
+    <color name="backgroundColor">#F6FBFF</color>
+    <color name="Spinwell140">#EBBEBDFC</color>
+</resources>
